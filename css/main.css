@@ -1,0 +1,34 @@
+fieldset
+{
+    color: orange;
+}
+
+label
+{
+    color: white;
+    flex: 1;
+}
+
+
+header {
+    grid-area: header;
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+body {
+    background-image: url('.././img/Anivia_OriginalCentered.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+footer{
+    padding: 30px;
+    text-align: right;
+    font-size: 15px;
+    color: white;
+}
